@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Теодора Орачева_21180047_5.12.2023</title>
+    <style>
+        .fn_21180047_footer-text {
+            color: #009000;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h1>Cats and Dogs</h1>
+    <h4 style="color: #8B0000;">I have a cat, and I am thinking of getting a dog. Will they fight?</h4>
+    <p>The idea that dogs hate cats may have been born because dogs chase cats and grew because cartoons depicted ongoing battles between the two species. Or it may have been generated because some dog people strongly dislike cats and some cat people disdain dogs. However, dogs and cats can live peaceably as long as owners understand the behaviors of each.</p>
+    <p>In some cases, a resident cat will isolate itself when a puppy is added to the family. In other cases, cats and dogs never get used to each other. In still other cases, cat or kitten and dog or puppy play together and build a friendship that finds them curled up together in a crate or bed and drinking out of the same bowl. The type of relationship developed in each household depends on the personality of the animals and the understanding of the owners.</p>
+
+    <div class="fn_21180047_footer-text">
+        [From Dog Owner's Guide: Fighting furry furies? www.canismajor.com/dog furfury.html)]
+    </div>
+</body>
+</html>
